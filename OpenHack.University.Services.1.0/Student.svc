@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="OpenHack.University.Services._1._0.Student" CodeBehind="Student.svc.cs" %>
